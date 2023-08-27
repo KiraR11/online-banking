@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789303168790",
+    "firebase_url": "https://app-tracking-fraud-transact-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "app-tracking-fraud-transact",
+    "storage_bucket": "app-tracking-fraud-transact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789303168790:android:f57c075dbab9461687ca37",
+        "android_client_info": {
+          "package_name": "com.example.mybank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789303168790-p005fdivn87grnvl8547k63bu5rfchu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtscuScGachM1iy_pm6BVCL1PYTXtDzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789303168790-p005fdivn87grnvl8547k63bu5rfchu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_cards"
+        android:orderInCategory="1"
+        android:title="Карты" />
+    <item
+        android:id="@+id/item_pay"
+        android:title="Платежи"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/item_history"
+        android:title="История"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/item_test"
+        android:title="Проверка"
+        android:orderInCategory="4"/>
+
+
+
+</menu>
